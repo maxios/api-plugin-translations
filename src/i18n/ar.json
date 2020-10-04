@@ -96,7 +96,17 @@
           },
           "tooltip": {
             "validationError": "خطئ في التحقق"
-          }
+          },
+          "addRemoveTags": {
+            "addConfirmation":  "إضافة الوسوم {{tags}} إلى {{count}} منتج",
+            "addConfirmation_plural": "إضافة الوسوم {{tags}} إلى {{count}} منتج",
+            "errorMessage": "حدث خطأ ما",
+            "inputPlaceholder": "إختر وسم أو أكثر",
+            "invalidSelection": "من فضلك ، إختر وسم أو أكثر",
+            "removeConfirmation": "حذف الوسوم {{tags}} من {{count}} منتج",
+            "removeConfirmation_plural": "حذف الوسوم {{tags}} من {{count}} منتج"
+          },
+          "products": "المنتجات الخفيفة"
         },
         "accounts": {
           "addMember": "إضافة عضو",
